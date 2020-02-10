@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wuhorahhed.value-from-data.com/sitemap.xml
